@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Paolo, from Italy!
+
+I'm working to become a full stack web developer ⚡
+
+Skills:
+💻 HTML, CSS, Bootstrap, Javascript, React, SASS, PHP, Laravel
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoloDigio)](https://github.com/PaoloDigio/github-readme-stats)
+
 
 <!--
 **PaoloDigio/PaoloDigio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
